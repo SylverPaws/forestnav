@@ -11,7 +11,7 @@ const c: IConfig = {
   hashMode: true,
 
   // is it displaying the Github icon on top right corner of the web page
-  showGithub: true,
+  showGithub: false,
 
   // what is your website address. It is good for your SEO
   homeUrl: 'https://nav.10forest.tk',
